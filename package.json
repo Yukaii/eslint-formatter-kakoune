@@ -1,8 +1,11 @@
 {
-  "name": "eslint-formatter-kakoune",
+  "name": "@yukaii/eslint-formatter-kakoune",
   "version": "1.0.0",
   "description": "ESLint formatter for kakoune",
   "main": "index.js",
+  "bin": {
+    "eslint-formatter-kakoune": "index.js"
+  },
   "scripts": {
   },
   "repository": {
